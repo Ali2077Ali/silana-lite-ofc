@@ -42,7 +42,7 @@ handler.all = async function (m) {
       [
         owner[0],
         await conn.getName(owner[0] + "967781974099@s.whatsapp.net"),
-        "SILANA AI",
+        " ذآك آلامِــــيــــر AI",
         "https://whatsapp.com",
         true,
       ],
