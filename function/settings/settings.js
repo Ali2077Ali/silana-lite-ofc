@@ -16,16 +16,16 @@ global.setting = {
 global.info = {
  nomerbot : '967781974099',
  pairingNumber : '967781974099',
- figlet: ' ذآك آلامِــــيــــر', // create a start console display
+ figlet: 'silanalite', // create a start console display
  nomorwa : '967781974099',
- nameown : ' ذآك آلامِــــيــــر',
+ nameown : 'ذاك الامير',
  nomerown : '967781974099',
- packname : ' ذآك آلامِــــيــــر by ',
- author : ' ذآك آلامِــــيــــر AI',
- namebot : '乂  ذآك آلامِــــيــــر AI',
- wm : ' ذآك آلامِــــيــــر LITE.',
+ packname : 'sticker by ',
+ author : 'ذاك الامير',
+ namebot : '乂 ذاك الامير',
+ wm : 'ذاك الامير.',
  stickpack : 'Whatsapp',
- stickauth : ' ذآك آلامِــــيــــر LITE',
+ stickauth : 'ذاك الامير',
  jid: '@s.whatsapp.net'
 }
 
@@ -34,9 +34,9 @@ global.media = {
  ppKosong : 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
  rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
- thumbnail : 'https://cdn.hisoka.net/f157ca91e615477f7ff8c138e2d6a183.jpeg',
- thumb : 'https://cdn.hisoka.net/a85121e3c86607f356102d5390423ce8.jpeg',
- logo : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
+ thumbnail : 'https://f.uguu.se/WPLpUUVT.jpg',
+ thumb : 'https://f.uguu.se/WPLpUUVT.jpg',
+ logo : 'https://f.uguu.se/WPLpUUVT.jpg',
  unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
  registrasi : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
  confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
@@ -52,9 +52,9 @@ global.media = {
 }
 // Social media
 global.url = {
- sig: 'https://instagram.com/noureddine_ouafy',
- sgh:  'https://instagram.com/noureddine_ouafy',
- sgc: 'https://whatsapp.com/channel/0029VaX4b6J7DAWqt3Hhu01A'
+ sig: 'https://instagram.com/lmm.l1',
+ sgh:  'https://instagram.com/lmm.l1',
+ sgc: 'https://whatsapp.com/channel/0029Vb3A0wrCnA7kStwYug0d'
 }
 // Donasi
 global.payment = {
