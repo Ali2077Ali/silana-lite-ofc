@@ -1477,7 +1477,7 @@ if (templ.gcImg) {
                                
 const canLea = await new canvafy.WelcomeLeave()
     .setAvatar(pp)
-    .setBackground("image", "https://telegra.ph/file/39ef0462ab2a3cc5ebfcc.jpg")
+    .setBackground("image", "https://files.catbox.moe/ekek4g.jpg")
     .setTitle("Goodbye")
     .setDescription("goodbye Friend!")
     .setBorder("#2a2e35")
